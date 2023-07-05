@@ -20,6 +20,8 @@ public class HomeController {
 //		return "index";
 //	}
 
+	// adding comment
+
 	// @RequestMapping("/addAlien")
 //	public String addAlien(@RequestParam("aid") int aid, @RequestParam("aname") String aname, Model m) {
 //
